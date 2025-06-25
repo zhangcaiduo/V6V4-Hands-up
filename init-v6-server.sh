@@ -27,23 +27,33 @@ fi
 # --- 欢迎仪式 ---
 clear
 echo -e "${BLUE}
- ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
- ZHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHZ
- ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ
- ZNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNZ
- ZGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGZ
- Z                                                             Z
- Z CCCCCCCCCCCCC    AAAAAAAAAAAAAAAA    IIIIIIIIII DDDDDDDDDDDD  Z
- Z CCCCCCCCCCCCC   AAAAAAAAAAAAAAAAAA   IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
- Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
- Z CCCC           AAAAAAAAAAAAAAAAAAAA     IIII    DDDD     DDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAA          AAAAA  IIIIIIIIII DDDDDDDDDDDD  Z
- Z                                                             Z
- ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                 :lllll;                        l<<<<<~+"                     
+           I???????????????;   '|t////////////////////tt\"    ;(((((((((((((((((((?              QBBBBBw.                    :(m%@$$$@a/^                     
+           j$$$$$$$$$$$$$$$(   "B$$$$$$$$$$$$$$$$$$$$$$$$!    [$$$$$$$$$$$$$$$$$$$Z              O$$$$$d.                 ;)CW$$$$$$$$awpdppppppppppppppdX.   
+           r$$$$$$$$$$$$$$$(   "&$$$$$okkkkkkkkkkkkkkkkkdI    ]$$$$$@8888888B$$$$$O              0$$$$$p              "_jm8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b.   
+           <ttttttttfW$$$$$(   "&$$$$@},,,,,,,,,,,,,,,,".     ]$$$$$q""""","|$$$$$O.<~~~~~~~~~~~~q$$$$$k+~~~>' .."i}nmW$$$$$$$@ZJLQQQQQQQQLCYYO#$$$$$$$$h/    
+                     h$$$$$(   "&$$$$$%8888888888888888v      ]$$$$$d>>>>>>>j$$$$$O^&$$$$$$$$$$$$$$$$$$$$$$$#, ;J&$$$$$$$$$$$$@0].        .!)JaB$$$$$#J-'     
+             -/\\\\\/M$$$$$(   "&$$$$$8&&&&&&&&&&&&&&&&u      ]$$$$$$$$$$$$$$$$$$$O^B$$$$$$$$$$$$$$$$$$$$$$$&,  ,f#$$$$#OjY&$$$$$axl ';?j0o@$$$$$$oY]"        
+             p$$$$$$$$$$$$$(   "&$$$$@[,,,,,,,,,,,,,,,:^      ]$$$$$@&&&&&&&%$$$$$Z'(\\\\\\\\|f#$$$$$$$o\\\\)' .  :XQ/~^   ,fo$$$$$8qa8$$$$$$$MOf~`           
+            "#$$$$$$$$$$$$$|   "&$$$$$okkkkkkkkkkkkkkkhj      ]$$$$$q"""""""($$$$$m          ,O$$$$$$$$q               .^I<}/0@$$$$$$$$$$$#Zx?:..             
+            <$$$$$k[[[[[[[[;   "&$$$$$$$$$$$$$$$$$$$$$$z      ]$$$$$d<<<<<<>r$$$$$m         ]*$$$$$$$$$q.     `+_[(fcCmkM%$$$$$$$$$$8hqb%$Mhkkh0{             
+            ($$$$$v            "&$$$$@)l!!!!!!!!!!!!!!!,      ]$$$$$$$$$$$$$$$$$$$w       :Y@$$$$$$$$$$q.     ^U$$$$$$$$$$$$$$%oZc/)/UkB$$$$$$Z(????????????_'
+            Y$$$$$k00000000I;wpd@$$$$$kwwwwwwwwwwwwwwwwqppn   ]$$$$$@888888&%$$$$$w     '(*$$$$$zk$$$$$q.       j$$$$$@&owUj}>;;~/Q*$$$$$$$$$$@$$$$$$$$$$$$$W:
+           .d$$$$$$$$$$$$$@l!$$$$$$$$$$$$$$$$$$$$$$$$$$$$$m   ]$$$$$q^^^^""^($$$$$w   .1b$$$$$W) w$$$$$q.        /Ux)_l^  'l[nZM$$$$$$$@@@@@@@@@@B%B$$$$$$$$o"
+           "aWWWWWWW8$$$$$M",z0$$$$$8UXQ$$$$$8UYYYXzYpBZzY\   ]$$$$$b+++++++x$$$$$w "|d$$$$$$QI  m$$$$$q.           `l?/Yp#@$$$$$$@Mmj+!!!!!!!lll_no$$$$$$&Y! 
+           .""""""""x$$$$$o`  >$$$$$*'  J$$$$@c   :(O&$o)     ]$$$$$$$$$$$$$$$$$$$aYM$$$$$$k{    Z$$$$$q.       >YqhW@$$$$$$$$$$$$#)          :{U*$$$$$$onI   
+                    u$$$$$b   <$$$$$#"  `L$$$$$pnp%$$$$$%r.   ]$$@BB@$$$$$$$@BBB@$#o$$$$$*t`     0$$$$$q.       '{a$$$$$$$8kLJ&$$$$@p)`  .;]vp8$$$$$$&L[^     
+                    C$$$$$Z   >$$$$$#"   .nB$$$$$$$$%hY{I'    "<>(qJf[+<~~~_)cpQ+>I`|o$oj,       L$$$$$q.         ^z8*wY/-;.  ;x#$$$$$anUk8$$$$$$$MQ(I        
+                    b$$$$$J   <$$$$$*'   '"/k$$$$$$$Z?^         [#$$@&k[  \o%$$$ml   "]"         m$$$$$q.           ,.       `:itW$$$$$$$$$$$$8bz],           
+           i>!lI;I~X$$$$$$n  .n$$$$$&cYZdo&W-(k$$$$$$$WbQc/^  `v@$$$$Bj`  "z$$$$$&/.    >{]---?(Q@$$$$$Z      .^^":I!~])/nUZb*8$$$$$$$$$$@Mqv[I.              
+           |@@BB8%$$$$$$$8>  t$$$$$$$$$$$$$$d.'?C#$$$$$$$$/..?k$$$$$h+      1&$$$$$O!   ~$$$$$$$$$$$$$@{      .t*W&%@$$$$$$$$$$$$$$$8oZv)>"                   
+           'b$$$$$$$$$$@p_   ,Q$$$$$$B&*kwQYn;   "?uwW@$$/  !wB$$$$J,        +#$$$%*v'   Z$$$$$$$$$$&O-        .|@$$$$$$$$$@8#kZYf}<:'                        
+            10QQQCJUYu|>.     .vpUj{_!,`.            ">))    .I1Jb)           iQu[l'     ~nxxrjft\{+:            )bq0Jcx/{_!:`                                
+                                                                 .                                              . .                                           
+                                                                                                                                                              
+                                                                                                                                                              
 ${NC}"
 echo -e "${GREEN}      “双剑合璧·出入无双” v1.2 - by Gemini & 指挥官 張財多      ${NC}"
 echo -e "${BLUE}=====================================================================${NC}"
