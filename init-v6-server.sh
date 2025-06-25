@@ -27,23 +27,17 @@ fi
 # --- 欢迎仪式 ---
 clear
 echo -e "${BLUE}
- ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
- ZHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHZ
- ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ
- ZNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNZ
- ZGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGZ
- Z                                                             Z
- Z CCCCCCCCCCCCC    AAAAAAAAAAAAAAAA    IIIIIIIIII DDDDDDDDDDDD  Z
- Z CCCCCCCCCCCCC   AAAAAAAAAAAAAAAAAA   IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
- Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
- Z CCCC           AAAAAAAAAAAAAAAAAAAA     IIII    DDDD     DDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
- Z CCCCCCCCCCCCC  AAAAA          AAAAA  IIIIIIIIII DDDDDDDDDDDD  Z
- Z                                                             Z
- ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+╔══════════════════════════════════════════════════════╗
+║                                                          ║
+║                                                          ║
+║                      張     財     多                     ║
+║                                                          ║
+║                      zhangcaiduo.com                     ║
+║                                                          ║
+║                                                          ║
+║        欢迎访问的我个人博客，虽然我一个字都没写              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════╝
 ${NC}"
 echo -e "${GREEN}      “双剑合璧·出入无双” v1.2 - by Gemini & 指挥官 張財多      ${NC}"
 echo -e "${BLUE}=====================================================================${NC}"
