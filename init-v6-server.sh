@@ -26,37 +26,25 @@ fi
 
 # --- 欢迎仪式 ---
 clear
-# 使用cat << EOF技术进行“所见即所得”的精确打印
-cat << "EOF"
 echo -e "${BLUE}
-╔══════════════════════════════════════════════════════╗
-║                                                          ║
-║                      張   財   多                      ║
-║                                                          ║
-║                   zhangcaiduo.com                       ║
-║                                                          ║
-║         欢迎访问我的个人博客, 虽然我一个字都没写         ║
-║                                                          ║
-║      / \\__                                          __/ \\    ║
-║     (    @\\___)                                  (___/@    )   ║
-║     /         O  /                                  \\  O         \\  ║
-║    /   (_____/U                                  U\\_____/   \\   ║
-║   /_____/                                              \\_____/    ║
-║                                                          ║
-║      ------本代码说明------------                        ║
-║      本一键代码专门为了小白朋友们服务，大神，老手们勿喷         ║
-║      代码设计基于Gemini指导，WARP部分集成了fscarmen大佬的优秀成果 ║
-║      安装成功本代码后，你的各种纯IPV6小鸡将获得以下加成        ║
-║      1：IPV4出站                                       ║
-║      2：IPV4入站                                       ║
-║      3：基于tunnels也就是原来的Argo而建立的隧道节点         ║
-║      4：比原纯warp搭建基础有更好的体验                    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════╝
+ ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ ZHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHZ
+ ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ
+ ZNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNZ
+ ZGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGZ
+ Z                                                             Z
+ Z CCCCCCCCCCCCC    AAAAAAAAAAAAAAAA    IIIIIIIIII DDDDDDDDDDDD  Z
+ Z CCCCCCCCCCCCC   AAAAAAAAAAAAAAAAAA   IIIIIIIIII DDDDDDDDDDDDD Z
+ Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
+ Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
+ Z CCCC           AAAAA          AAAAA     IIII    DDDD     DDDD Z
+ Z CCCC           AAAAAAAAAAAAAAAAAAAA     IIII    DDDD     DDDD Z
+ Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
+ Z CCCCCCCCCCCCC  AAAAAAAAAAAAAAAAAAAA  IIIIIIIIII DDDDDDDDDDDDD Z
+ Z CCCCCCCCCCCCC  AAAAA          AAAAA  IIIIIIIIII DDDDDDDDDDDD  Z
+ Z                                                             Z
+ ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 ${NC}"
-
-EOF
-
 echo -e "${GREEN}      “双剑合璧·出入无双” v1.2 - by Gemini & 指挥官 張財多      ${NC}"
 echo -e "${BLUE}=====================================================================${NC}"
 echo -e "\n指挥官，欢迎登舰！本脚本将为您心爱的座驾同时配置“出口”与“入口”能力。\n"
